@@ -1,0 +1,85 @@
+------------------------- DATA SCIENCE -----------------------
+
+collecting data,cleaning data,analyse of data,visulization of data and finally decision making from data.
+
+EG: Any business data for predicting future sales and buying materials.
+
+Predictice models:
+
+predicting  future data from existing data.
+
+------------------------ MACHINE LEARNING ---------------------
+
+Predictions are made from data, by machines by learning patterns from data.
+
+EG: youtube recommendations,netflix recommendations.
+
+------------------------ DEEP LEARNING ---------------------
+
+This is advanced method in machine learning, inspired from human neural networks.
+Works on complex data i.e, large amounts of data, images, videos by learning complex patterns.
+
+EG: In self-driving cars for detecting objects.
+
+google translator speech to text conversion.
+
+------------------------ AI -----------------
+
+Ability of machine to think like humans by training on large amounts of data, by learning various patterns from data and to predict or take decisions from the data.
+
+Machine learning and deep learning are parts of ai.
+
+
+
+Generative model: creates new content from existing data.
+
+----------------------- GENERATIVE AI ----------
+
+Generates new data from existing data like text,image, video, music..etc
+
+EG : ChatGPT.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+ChatGPT UI --------> API --------> chatGPT backend server.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+*** SHOT PROMPTING TECHNIQUE:
+
+1.This technique is used for controlling ouput style and format without giving instructions.
+
+2.To train the gpt model on a pattern without actual fine-tuning.
+
+3.To improve accuracy on complex and structured tasks.
+
+* ZERO SHOT PROMPTING:
+
+we give no example but expect desired ans.
+
+EG: sun rises in the east. 
+ANS: yes.
+but reply will not be crisp.
+
+* ONE SHOT PROMPTING:
+
+we give one example to show the pattern.
+
+EG: sun rises in east. ANS : yes.
+
+EG: sun sets in north.
+
+--> Only few chatbots give support one shot prompting like grok.
+
+* FEW SHOT PROMPTING:
+
+1.we give 2-5 examples to understand the pattern,tone and format style.
+
+-->Mostly all chatbots will support few shot prompting.
+
+
+
+
+
+
