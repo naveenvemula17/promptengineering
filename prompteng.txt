@@ -79,6 +79,25 @@ EG: sun sets in north.
 -->Mostly all chatbots will support few shot prompting.
 
 
+---------------------CHAIN OF THOUGHT -----------------
+
+CoT prompting.
+
+__zero shot CoT prompting.
+
+   same as zero shot prompting but we will add prompt like think step by step.
+   so that the machine bot will think carefully for some time.
+
+   zero shot prompting     : A train travels at 120 kms for 2 hours,what's its speed?
+
+   zero shot CoT prompting : A train travels at 120 kms for 2 hours,what's its speed? Think step by step.
+
+
+Mostly used for arithmetic and reasoning questions.
+
+
+
+
 
 
 
